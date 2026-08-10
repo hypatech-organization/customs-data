@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-10T05:04:47.111Z",
+  "generatedAt": "2026-08-10T10:03:46.646Z",
   "label": "Trade preference programs",
-  "rowCount": 3809,
+  "rowCount": 3808,
   "rows": [
     {
       "additionalRatePercent": "-100.000",
@@ -49503,19 +49503,6 @@
       "hsCodePrefix": "6206",
       "lastVerifiedAt": "2026-05-14T00:00:00.000Z",
       "notes": "HOPE/HELP: HTSUS prefix 6206 from Haiti duty-free under Haiti-specific TPLs. Authority extended through 2025.",
-      "originCountryCode": "HT",
-      "program": "hope-help",
-      "sourceUrl": "https://ustr.gov/issue-areas/preference-programs/haiti"
-    },
-    {
-      "additionalRatePercent": "-100.000",
-      "additionalRateRaw": "duty-free (HOPE/HELP)",
-      "appliesOnTopOfMfn": false,
-      "countryCode": "US",
-      "effectiveFrom": "2008-06-30T00:00:00.000Z",
-      "hsCodePrefix": "6109",
-      "lastVerifiedAt": "2026-05-14T00:00:00.000Z",
-      "notes": "HOPE/HELP: HTSUS prefix 6109 from Haiti duty-free under Haiti-specific TPLs. Authority extended through 2025.",
       "originCountryCode": "HT",
       "program": "hope-help",
       "sourceUrl": "https://ustr.gov/issue-areas/preference-programs/haiti"
