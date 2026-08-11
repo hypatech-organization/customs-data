@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T23:32:04.457Z",
+  "generatedAt": "2026-08-11T03:21:15.175Z",
   "label": "VAT / sales-tax rates",
   "rowCount": 382,
   "rows": [
@@ -62,7 +62,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "19.000",
       "rateType": "standard",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "0",
@@ -71,7 +71,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "49",
@@ -80,7 +80,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "countryCode": "FR",
@@ -88,7 +88,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "20.000",
       "rateType": "standard",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "0",
@@ -97,7 +97,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "5.500",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "49",
@@ -106,7 +106,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "5.500",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": null,
@@ -115,7 +115,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "10.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "countryCode": "IT",
@@ -123,7 +123,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "22.000",
       "rateType": "standard",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "0",
@@ -132,7 +132,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "4.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "49",
@@ -141,7 +141,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "4.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": null,
@@ -150,7 +150,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "10.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "countryCode": "ES",
@@ -158,7 +158,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "21.000",
       "rateType": "standard",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "0",
@@ -167,7 +167,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "4.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "49",
@@ -176,7 +176,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "4.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": null,
@@ -185,7 +185,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "10.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "countryCode": "NL",
@@ -193,7 +193,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "21.000",
       "rateType": "standard",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "0",
@@ -202,7 +202,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "9.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "49",
@@ -211,7 +211,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "9.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "countryCode": "BE",
@@ -219,7 +219,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "21.000",
       "rateType": "standard",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "0",
@@ -228,7 +228,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "6.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "49",
@@ -237,7 +237,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "6.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": null,
@@ -246,7 +246,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "12.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "countryCode": "AT",
@@ -254,7 +254,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "20.000",
       "rateType": "standard",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "0",
@@ -263,7 +263,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "10.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": null,
@@ -272,7 +272,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "13.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "countryCode": "PL",
@@ -280,7 +280,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "23.000",
       "rateType": "standard",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "0",
@@ -289,7 +289,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "5.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": null,
@@ -298,7 +298,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "8.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "countryCode": "SE",
@@ -306,7 +306,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "25.000",
       "rateType": "standard",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "0",
@@ -315,7 +315,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "12.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "49",
@@ -324,7 +324,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "6.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "countryCode": "DK",
@@ -332,7 +332,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "25.000",
       "rateType": "standard",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "countryCode": "FI",
@@ -340,7 +340,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "25.500",
       "rateType": "standard",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "0",
@@ -349,7 +349,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "14.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "49",
@@ -358,7 +358,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "10.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "countryCode": "IE",
@@ -366,7 +366,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "23.000",
       "rateType": "standard",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": null,
@@ -375,7 +375,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "13.500",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": null,
@@ -384,7 +384,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "9.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "0",
@@ -393,7 +393,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "0.000",
       "rateType": "zero",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "6111",
@@ -402,7 +402,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "0.000",
       "rateType": "zero",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "6209",
@@ -411,7 +411,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "0.000",
       "rateType": "zero",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "4901",
@@ -420,7 +420,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "0.000",
       "rateType": "zero",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "countryCode": "PT",
@@ -428,7 +428,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "23.000",
       "rateType": "standard",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "0",
@@ -437,7 +437,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "6.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": null,
@@ -446,7 +446,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "13.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "countryCode": "GR",
@@ -454,7 +454,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "24.000",
       "rateType": "standard",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "49",
@@ -463,7 +463,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "6.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "0",
@@ -472,7 +472,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "13.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "countryCode": "HU",
@@ -480,7 +480,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "27.000",
       "rateType": "standard",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "0",
@@ -489,7 +489,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "18.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "49",
@@ -498,7 +498,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "5.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "countryCode": "CZ",
@@ -506,7 +506,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "21.000",
       "rateType": "standard",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "0",
@@ -515,7 +515,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "12.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "countryCode": "RO",
@@ -523,7 +523,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "19.000",
       "rateType": "standard",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "0",
@@ -532,7 +532,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "9.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": null,
@@ -541,7 +541,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "5.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "countryCode": "BG",
@@ -549,7 +549,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "20.000",
       "rateType": "standard",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": null,
@@ -558,7 +558,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "9.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "countryCode": "HR",
@@ -566,7 +566,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "25.000",
       "rateType": "standard",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": null,
@@ -575,7 +575,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "13.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "49",
@@ -584,7 +584,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "5.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "countryCode": "SK",
@@ -592,7 +592,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "23.000",
       "rateType": "standard",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": null,
@@ -601,7 +601,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "5.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "countryCode": "SI",
@@ -609,7 +609,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "22.000",
       "rateType": "standard",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": null,
@@ -618,7 +618,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "countryCode": "LU",
@@ -626,7 +626,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "17.000",
       "rateType": "standard",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "49",
@@ -635,7 +635,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "3.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": null,
@@ -644,7 +644,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "8.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "countryCode": "LT",
@@ -652,7 +652,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "21.000",
       "rateType": "standard",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": null,
@@ -661,7 +661,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "9.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": null,
@@ -670,7 +670,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "5.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "countryCode": "LV",
@@ -678,7 +678,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "21.000",
       "rateType": "standard",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": null,
@@ -687,7 +687,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "12.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": null,
@@ -696,7 +696,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "5.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "countryCode": "EE",
@@ -704,7 +704,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "24.000",
       "rateType": "standard",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": "49",
@@ -713,7 +713,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "9.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "countryCode": "CY",
@@ -721,7 +721,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "19.000",
       "rateType": "standard",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": null,
@@ -730,7 +730,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "5.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": null,
@@ -739,7 +739,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "9.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "countryCode": "MT",
@@ -747,7 +747,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "18.000",
       "rateType": "standard",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "appliesToHsPrefix": null,
@@ -756,7 +756,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "5.000",
       "rateType": "reduced",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "countryCode": "EU",
@@ -764,7 +764,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "21.000",
       "rateType": "standard",
-      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates_en"
     },
     {
       "countryCode": "CA",
@@ -1470,7 +1470,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "18.000",
       "rateType": "standard",
-      "sourceUrl": "https://www.rs.ge/en"
+      "sourceUrl": "https://www.rs.ge/"
     },
     {
       "countryCode": "DO",
@@ -2380,7 +2380,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "15.000",
       "rateType": "standard",
-      "sourceUrl": "https://www.gov.gd/ird/"
+      "sourceUrl": "https://www.gov.gd/"
     },
     {
       "appliesToHsPrefix": null,
@@ -2389,7 +2389,7 @@
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
       "ratePercent": "10.000",
       "rateType": "reduced",
-      "sourceUrl": "https://www.gov.gd/ird/"
+      "sourceUrl": "https://www.gov.gd/"
     },
     {
       "countryCode": "GY",

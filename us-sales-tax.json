@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T23:32:04.457Z",
+  "generatedAt": "2026-08-11T03:21:15.175Z",
   "label": "US state + metro sales-tax rates",
   "rowCount": 565,
   "rows": [
@@ -769,7 +769,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.875",
       "rateType": "metro_combined",
-      "sourceUrl": "https://www.tax.ny.gov/bus/st/srtsd.htm"
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/stidx.htm"
     },
     {
       "countryCode": "US-NY-BUF",
@@ -777,7 +777,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.750",
       "rateType": "metro_combined",
-      "sourceUrl": "https://www.tax.ny.gov/bus/st/srtsd.htm"
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/stidx.htm"
     },
     {
       "countryCode": "US-NY-ROC",
@@ -785,7 +785,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.000",
       "rateType": "metro_combined",
-      "sourceUrl": "https://www.tax.ny.gov/bus/st/srtsd.htm"
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/stidx.htm"
     },
     {
       "countryCode": "US-TX-HOU",
@@ -833,7 +833,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "metro_combined",
-      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sales_tax.aspx"
+      "sourceUrl": "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx"
     },
     {
       "countryCode": "US-FL-TPA",
@@ -841,7 +841,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.500",
       "rateType": "metro_combined",
-      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sales_tax.aspx"
+      "sourceUrl": "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx"
     },
     {
       "countryCode": "US-FL-MCO",
@@ -849,7 +849,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "6.500",
       "rateType": "metro_combined",
-      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sales_tax.aspx"
+      "sourceUrl": "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx"
     },
     {
       "countryCode": "US-FL-JAX",
@@ -857,7 +857,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.500",
       "rateType": "metro_combined",
-      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sales_tax.aspx"
+      "sourceUrl": "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx"
     },
     {
       "countryCode": "US-FL-FLL",
@@ -865,7 +865,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "metro_combined",
-      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sales_tax.aspx"
+      "sourceUrl": "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx"
     },
     {
       "countryCode": "US-IL-CHI",
@@ -1537,7 +1537,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
     },
     {
       "countryCode": "US-CA-ORANGE",
@@ -1545,7 +1545,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
     },
     {
       "countryCode": "US-CA-SANDIEGO",
@@ -1553,7 +1553,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
     },
     {
       "countryCode": "US-CA-RIVERSIDE",
@@ -1561,7 +1561,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
     },
     {
       "countryCode": "US-CA-SANBERNARD",
@@ -1569,7 +1569,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
     },
     {
       "countryCode": "US-CA-SANTACLARA",
@@ -1577,7 +1577,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
     },
     {
       "countryCode": "US-CA-ALAMEDA",
@@ -1585,7 +1585,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
     },
     {
       "countryCode": "US-CA-SACRAMENTO",
@@ -1593,7 +1593,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
     },
     {
       "countryCode": "US-CA-CONTRACOST",
@@ -1601,7 +1601,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
     },
     {
       "countryCode": "US-CA-FRESNO",
@@ -1609,7 +1609,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
     },
     {
       "countryCode": "US-CA-KERN",
@@ -1617,7 +1617,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
     },
     {
       "countryCode": "US-CA-VENTURA",
@@ -1625,7 +1625,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
     },
     {
       "countryCode": "US-CA-SANFRANCIS",
@@ -1633,7 +1633,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
     },
     {
       "countryCode": "US-CA-SANMATEO",
@@ -1641,7 +1641,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
     },
     {
       "countryCode": "US-CA-SANJOAQUIN",
@@ -1649,7 +1649,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
     },
     {
       "countryCode": "US-CA-SONOMA",
@@ -1657,7 +1657,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
     },
     {
       "countryCode": "US-CA-STANISLAUS",
@@ -1665,7 +1665,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
     },
     {
       "countryCode": "US-CA-TULARE",
@@ -1673,7 +1673,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
     },
     {
       "countryCode": "US-CA-SOLANO",
@@ -1681,7 +1681,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
     },
     {
       "countryCode": "US-CA-SANTABARBA",
@@ -1689,7 +1689,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
     },
     {
       "countryCode": "US-CA-MONTEREY",
@@ -1697,7 +1697,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
     },
     {
       "countryCode": "US-CA-PLACER",
@@ -1705,7 +1705,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
     },
     {
       "countryCode": "US-CA-MARIN",
@@ -1713,7 +1713,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
     },
     {
       "countryCode": "US-CA-YOLO",
@@ -1721,7 +1721,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
     },
     {
       "countryCode": "US-CA-ELDORADO",
@@ -1729,7 +1729,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
     },
     {
       "countryCode": "US-CA-BUTTE",
@@ -1737,7 +1737,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
     },
     {
       "countryCode": "US-CA-SHASTA",
@@ -1745,7 +1745,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
     },
     {
       "countryCode": "US-CA-MERCED",
@@ -1753,7 +1753,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
     },
     {
       "countryCode": "US-CA-IMPERIAL",
@@ -1761,7 +1761,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
     },
     {
       "countryCode": "US-CA-MADERA",
@@ -1769,7 +1769,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
     },
     {
       "countryCode": "US-TX-HARRIS",
@@ -1777,7 +1777,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/"
     },
     {
       "countryCode": "US-TX-DALLAS",
@@ -1785,7 +1785,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/"
     },
     {
       "countryCode": "US-TX-TARRANT",
@@ -1793,7 +1793,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/"
     },
     {
       "countryCode": "US-TX-BEXAR",
@@ -1801,7 +1801,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/"
     },
     {
       "countryCode": "US-TX-TRAVIS",
@@ -1809,7 +1809,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/"
     },
     {
       "countryCode": "US-TX-COLLIN",
@@ -1817,7 +1817,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/"
     },
     {
       "countryCode": "US-TX-HIDALGO",
@@ -1825,7 +1825,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/"
     },
     {
       "countryCode": "US-TX-ELPASO",
@@ -1833,7 +1833,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/"
     },
     {
       "countryCode": "US-TX-DENTON",
@@ -1841,7 +1841,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/"
     },
     {
       "countryCode": "US-TX-FORTBEND",
@@ -1849,7 +1849,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/"
     },
     {
       "countryCode": "US-TX-MONTGOMERY",
@@ -1857,7 +1857,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/"
     },
     {
       "countryCode": "US-TX-WILLIAMSON",
@@ -1865,7 +1865,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/"
     },
     {
       "countryCode": "US-TX-CAMERON",
@@ -1873,7 +1873,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/"
     },
     {
       "countryCode": "US-TX-BRAZORIA",
@@ -1881,7 +1881,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/"
     },
     {
       "countryCode": "US-TX-GALVESTON",
@@ -1889,7 +1889,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/"
     },
     {
       "countryCode": "US-TX-NUECES",
@@ -1897,7 +1897,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/"
     },
     {
       "countryCode": "US-TX-BELL",
@@ -1905,7 +1905,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/"
     },
     {
       "countryCode": "US-TX-JEFFERSON",
@@ -1913,7 +1913,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/"
     },
     {
       "countryCode": "US-TX-WEBB",
@@ -1921,7 +1921,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/"
     },
     {
       "countryCode": "US-TX-LUBBOCK",
@@ -1929,7 +1929,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/"
     },
     {
       "countryCode": "US-TX-SMITH",
@@ -1937,7 +1937,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/"
     },
     {
       "countryCode": "US-TX-MCLENNAN",
@@ -1945,7 +1945,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/"
     },
     {
       "countryCode": "US-TX-BRAZOS",
@@ -1953,7 +1953,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/"
     },
     {
       "countryCode": "US-TX-HAYS",
@@ -1961,7 +1961,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/"
     },
     {
       "countryCode": "US-TX-ELLIS",
@@ -1969,7 +1969,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/"
     },
     {
       "countryCode": "US-FL-MIAMIDADE",
@@ -1977,7 +1977,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+      "sourceUrl": "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx"
     },
     {
       "countryCode": "US-FL-BROWARD",
@@ -1985,7 +1985,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+      "sourceUrl": "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx"
     },
     {
       "countryCode": "US-FL-PALMBEACH",
@@ -1993,7 +1993,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+      "sourceUrl": "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx"
     },
     {
       "countryCode": "US-FL-HILLSBOROU",
@@ -2001,7 +2001,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+      "sourceUrl": "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx"
     },
     {
       "countryCode": "US-FL-ORANGE",
@@ -2009,7 +2009,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+      "sourceUrl": "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx"
     },
     {
       "countryCode": "US-FL-PINELLAS",
@@ -2017,7 +2017,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+      "sourceUrl": "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx"
     },
     {
       "countryCode": "US-FL-DUVAL",
@@ -2025,7 +2025,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+      "sourceUrl": "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx"
     },
     {
       "countryCode": "US-FL-LEE",
@@ -2033,7 +2033,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+      "sourceUrl": "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx"
     },
     {
       "countryCode": "US-FL-POLK",
@@ -2041,7 +2041,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+      "sourceUrl": "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx"
     },
     {
       "countryCode": "US-FL-BREVARD",
@@ -2049,7 +2049,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+      "sourceUrl": "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx"
     },
     {
       "countryCode": "US-FL-VOLUSIA",
@@ -2057,7 +2057,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+      "sourceUrl": "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx"
     },
     {
       "countryCode": "US-FL-PASCO",
@@ -2065,7 +2065,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+      "sourceUrl": "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx"
     },
     {
       "countryCode": "US-FL-SEMINOLE",
@@ -2073,7 +2073,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+      "sourceUrl": "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx"
     },
     {
       "countryCode": "US-FL-SARASOTA",
@@ -2081,7 +2081,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+      "sourceUrl": "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx"
     },
     {
       "countryCode": "US-FL-MANATEE",
@@ -2089,7 +2089,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+      "sourceUrl": "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx"
     },
     {
       "countryCode": "US-FL-COLLIER",
@@ -2097,7 +2097,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+      "sourceUrl": "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx"
     },
     {
       "countryCode": "US-FL-MARION",
@@ -2105,7 +2105,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+      "sourceUrl": "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx"
     },
     {
       "countryCode": "US-FL-LAKE",
@@ -2113,7 +2113,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+      "sourceUrl": "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx"
     },
     {
       "countryCode": "US-FL-OSCEOLA",
@@ -2121,7 +2121,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+      "sourceUrl": "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx"
     },
     {
       "countryCode": "US-FL-ESCAMBIA",
@@ -2129,7 +2129,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+      "sourceUrl": "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx"
     },
     {
       "countryCode": "US-NY-NEWYORK",
@@ -2137,7 +2137,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.875",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/stidx.htm"
     },
     {
       "countryCode": "US-NY-KINGS",
@@ -2145,7 +2145,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.875",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/stidx.htm"
     },
     {
       "countryCode": "US-NY-QUEENS",
@@ -2153,7 +2153,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.875",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/stidx.htm"
     },
     {
       "countryCode": "US-NY-BRONX",
@@ -2161,7 +2161,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.875",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/stidx.htm"
     },
     {
       "countryCode": "US-NY-RICHMOND",
@@ -2169,7 +2169,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.875",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/stidx.htm"
     },
     {
       "countryCode": "US-NY-NASSAU",
@@ -2177,7 +2177,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.875",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/stidx.htm"
     },
     {
       "countryCode": "US-NY-SUFFOLK",
@@ -2185,7 +2185,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.875",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/stidx.htm"
     },
     {
       "countryCode": "US-NY-WESTCHESTE",
@@ -2193,7 +2193,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.875",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/stidx.htm"
     },
     {
       "countryCode": "US-NY-ERIE",
@@ -2201,7 +2201,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.875",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/stidx.htm"
     },
     {
       "countryCode": "US-NY-MONROE",
@@ -2209,7 +2209,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.875",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/stidx.htm"
     },
     {
       "countryCode": "US-NY-ONONDAGA",
@@ -2217,7 +2217,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.875",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/stidx.htm"
     },
     {
       "countryCode": "US-NY-ALBANY",
@@ -2225,7 +2225,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.875",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/stidx.htm"
     },
     {
       "countryCode": "US-NY-ROCKLAND",
@@ -2233,7 +2233,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.875",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/stidx.htm"
     },
     {
       "countryCode": "US-NY-ORANGE",
@@ -2241,7 +2241,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.875",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/stidx.htm"
     },
     {
       "countryCode": "US-NY-DUTCHESS",
@@ -2249,7 +2249,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.875",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/stidx.htm"
     },
     {
       "countryCode": "US-NY-SARATOGA",
@@ -2257,7 +2257,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.875",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/stidx.htm"
     },
     {
       "countryCode": "US-NY-NIAGARA",
@@ -2265,7 +2265,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.875",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/stidx.htm"
     },
     {
       "countryCode": "US-NY-ONEIDA",
@@ -2273,7 +2273,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.875",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/stidx.htm"
     },
     {
       "countryCode": "US-NY-RENSSELAER",
@@ -2281,7 +2281,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.875",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/stidx.htm"
     },
     {
       "countryCode": "US-NY-SCHENECTAD",
@@ -2289,7 +2289,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.875",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/stidx.htm"
     },
     {
       "countryCode": "US-IL-COOK",
@@ -2297,7 +2297,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://tax.illinois.gov/research/taxrates/salestax.html"
+      "sourceUrl": "https://tax.illinois.gov/research/taxrates.html"
     },
     {
       "countryCode": "US-IL-DUPAGE",
@@ -2305,7 +2305,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://tax.illinois.gov/research/taxrates/salestax.html"
+      "sourceUrl": "https://tax.illinois.gov/research/taxrates.html"
     },
     {
       "countryCode": "US-IL-LAKE",
@@ -2313,7 +2313,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://tax.illinois.gov/research/taxrates/salestax.html"
+      "sourceUrl": "https://tax.illinois.gov/research/taxrates.html"
     },
     {
       "countryCode": "US-IL-WILL",
@@ -2321,7 +2321,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://tax.illinois.gov/research/taxrates/salestax.html"
+      "sourceUrl": "https://tax.illinois.gov/research/taxrates.html"
     },
     {
       "countryCode": "US-IL-KANE",
@@ -2329,7 +2329,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://tax.illinois.gov/research/taxrates/salestax.html"
+      "sourceUrl": "https://tax.illinois.gov/research/taxrates.html"
     },
     {
       "countryCode": "US-IL-MCHENRY",
@@ -2337,7 +2337,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://tax.illinois.gov/research/taxrates/salestax.html"
+      "sourceUrl": "https://tax.illinois.gov/research/taxrates.html"
     },
     {
       "countryCode": "US-IL-WINNEBAGO",
@@ -2345,7 +2345,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://tax.illinois.gov/research/taxrates/salestax.html"
+      "sourceUrl": "https://tax.illinois.gov/research/taxrates.html"
     },
     {
       "countryCode": "US-IL-MADISON",
@@ -2353,7 +2353,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://tax.illinois.gov/research/taxrates/salestax.html"
+      "sourceUrl": "https://tax.illinois.gov/research/taxrates.html"
     },
     {
       "countryCode": "US-IL-STCLAIR",
@@ -2361,7 +2361,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://tax.illinois.gov/research/taxrates/salestax.html"
+      "sourceUrl": "https://tax.illinois.gov/research/taxrates.html"
     },
     {
       "countryCode": "US-IL-CHAMPAIGN",
@@ -2369,7 +2369,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://tax.illinois.gov/research/taxrates/salestax.html"
+      "sourceUrl": "https://tax.illinois.gov/research/taxrates.html"
     },
     {
       "countryCode": "US-IL-SANGAMON",
@@ -2377,7 +2377,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://tax.illinois.gov/research/taxrates/salestax.html"
+      "sourceUrl": "https://tax.illinois.gov/research/taxrates.html"
     },
     {
       "countryCode": "US-IL-PEORIA",
@@ -2385,7 +2385,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://tax.illinois.gov/research/taxrates/salestax.html"
+      "sourceUrl": "https://tax.illinois.gov/research/taxrates.html"
     },
     {
       "countryCode": "US-IL-MCLEAN",
@@ -2393,7 +2393,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://tax.illinois.gov/research/taxrates/salestax.html"
+      "sourceUrl": "https://tax.illinois.gov/research/taxrates.html"
     },
     {
       "countryCode": "US-IL-TAZEWELL",
@@ -2401,7 +2401,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://tax.illinois.gov/research/taxrates/salestax.html"
+      "sourceUrl": "https://tax.illinois.gov/research/taxrates.html"
     },
     {
       "countryCode": "US-IL-ROCKISLAND",
@@ -2409,7 +2409,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://tax.illinois.gov/research/taxrates/salestax.html"
+      "sourceUrl": "https://tax.illinois.gov/research/taxrates.html"
     },
     {
       "countryCode": "US-PA-ALLEGHENY",
@@ -3281,7 +3281,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.375",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-MN-RAMSEY",
@@ -3289,7 +3289,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.375",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-MN-DAKOTA",
@@ -3297,7 +3297,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.375",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-MN-ANOKA",
@@ -3305,7 +3305,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.375",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-MN-WASHINGTON",
@@ -3313,7 +3313,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.375",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-MN-SCOTT",
@@ -3321,7 +3321,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.375",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-MN-WRIGHT",
@@ -3329,7 +3329,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.375",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-MN-OLMSTED",
@@ -3337,7 +3337,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.375",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-MN-STEARNS",
@@ -3345,7 +3345,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.375",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-MN-STLOUIS",
@@ -3353,7 +3353,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.375",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-WI-MILWAUKEE",
@@ -3361,7 +3361,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "5.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-WI-DANE",
@@ -3369,7 +3369,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "5.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-WI-WAUKESHA",
@@ -3377,7 +3377,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "5.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-WI-BROWN",
@@ -3385,7 +3385,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "5.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-WI-RACINE",
@@ -3393,7 +3393,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "5.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-WI-OUTAGAMIE",
@@ -3401,7 +3401,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "5.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-WI-WINNEBAGO",
@@ -3409,7 +3409,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "5.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-WI-KENOSHA",
@@ -3417,7 +3417,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "5.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-WI-ROCK",
@@ -3425,7 +3425,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "5.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-WI-MARATHON",
@@ -3433,7 +3433,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "5.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-IN-MARION",
@@ -3441,7 +3441,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-IN-LAKE",
@@ -3449,7 +3449,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-IN-ALLEN",
@@ -3457,7 +3457,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-IN-HAMILTON",
@@ -3465,7 +3465,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-IN-STJOSEPH",
@@ -3473,7 +3473,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-IN-ELKHART",
@@ -3481,7 +3481,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-IN-HENDRICKS",
@@ -3489,7 +3489,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-IN-TIPPECANOE",
@@ -3497,7 +3497,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-IN-JOHNSON",
@@ -3505,7 +3505,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-IN-MADISON",
@@ -3513,7 +3513,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-TN-SHELBY",
@@ -3521,7 +3521,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.750",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-TN-DAVIDSON",
@@ -3529,7 +3529,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.750",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-TN-KNOX",
@@ -3537,7 +3537,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.750",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-TN-HAMILTON",
@@ -3545,7 +3545,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.750",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-TN-RUTHERFORD",
@@ -3553,7 +3553,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.750",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-TN-WILLIAMSON",
@@ -3561,7 +3561,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.750",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-TN-SUMNER",
@@ -3569,7 +3569,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.750",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-TN-WILSON",
@@ -3577,7 +3577,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.750",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-TN-MONTGOMERY",
@@ -3585,7 +3585,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.750",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-TN-SULLIVAN",
@@ -3593,7 +3593,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.750",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-KY-JEFFERSON",
@@ -3601,7 +3601,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "6.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-KY-FAYETTE",
@@ -3609,7 +3609,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "6.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-KY-KENTON",
@@ -3617,7 +3617,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "6.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-KY-BOONE",
@@ -3625,7 +3625,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "6.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-KY-HARDIN",
@@ -3633,7 +3633,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "6.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-KY-DAVIESS",
@@ -3641,7 +3641,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "6.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-KY-WARREN",
@@ -3649,7 +3649,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "6.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-KY-BULLITT",
@@ -3657,7 +3657,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "6.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-NJ-BERGEN",
@@ -3665,7 +3665,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "6.625",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.state.nj.us/treasury/taxation/su.shtml"
+      "sourceUrl": "https://www.nj.gov/treasury/taxation/salestax.shtml"
     },
     {
       "countryCode": "US-NJ-MIDDLESEX",
@@ -3673,7 +3673,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "6.625",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.state.nj.us/treasury/taxation/su.shtml"
+      "sourceUrl": "https://www.nj.gov/treasury/taxation/salestax.shtml"
     },
     {
       "countryCode": "US-NJ-ESSEX",
@@ -3681,7 +3681,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "6.625",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.state.nj.us/treasury/taxation/su.shtml"
+      "sourceUrl": "https://www.nj.gov/treasury/taxation/salestax.shtml"
     },
     {
       "countryCode": "US-NJ-HUDSON",
@@ -3689,7 +3689,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "6.625",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.state.nj.us/treasury/taxation/su.shtml"
+      "sourceUrl": "https://www.nj.gov/treasury/taxation/salestax.shtml"
     },
     {
       "countryCode": "US-NJ-MONMOUTH",
@@ -3697,7 +3697,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "6.625",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.state.nj.us/treasury/taxation/su.shtml"
+      "sourceUrl": "https://www.nj.gov/treasury/taxation/salestax.shtml"
     },
     {
       "countryCode": "US-NJ-OCEAN",
@@ -3705,7 +3705,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "6.625",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.state.nj.us/treasury/taxation/su.shtml"
+      "sourceUrl": "https://www.nj.gov/treasury/taxation/salestax.shtml"
     },
     {
       "countryCode": "US-NJ-UNION",
@@ -3713,7 +3713,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "6.625",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.state.nj.us/treasury/taxation/su.shtml"
+      "sourceUrl": "https://www.nj.gov/treasury/taxation/salestax.shtml"
     },
     {
       "countryCode": "US-NJ-CAMDEN",
@@ -3721,7 +3721,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "6.625",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.state.nj.us/treasury/taxation/su.shtml"
+      "sourceUrl": "https://www.nj.gov/treasury/taxation/salestax.shtml"
     },
     {
       "countryCode": "US-MD-MONTGOMERY",
@@ -3985,7 +3985,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.550",
       "rateType": "county_combined",
-      "sourceUrl": "https://revenue.louisiana.gov/SalesTax/SalesUseTaxRates"
+      "sourceUrl": "https://revenue.louisiana.gov/"
     },
     {
       "countryCode": "US-LA-JEFFERSON",
@@ -3993,7 +3993,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.550",
       "rateType": "county_combined",
-      "sourceUrl": "https://revenue.louisiana.gov/SalesTax/SalesUseTaxRates"
+      "sourceUrl": "https://revenue.louisiana.gov/"
     },
     {
       "countryCode": "US-LA-ORLEANS",
@@ -4001,7 +4001,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.550",
       "rateType": "county_combined",
-      "sourceUrl": "https://revenue.louisiana.gov/SalesTax/SalesUseTaxRates"
+      "sourceUrl": "https://revenue.louisiana.gov/"
     },
     {
       "countryCode": "US-LA-STTAMMANY",
@@ -4009,7 +4009,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.550",
       "rateType": "county_combined",
-      "sourceUrl": "https://revenue.louisiana.gov/SalesTax/SalesUseTaxRates"
+      "sourceUrl": "https://revenue.louisiana.gov/"
     },
     {
       "countryCode": "US-LA-CADDO",
@@ -4017,7 +4017,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.550",
       "rateType": "county_combined",
-      "sourceUrl": "https://revenue.louisiana.gov/SalesTax/SalesUseTaxRates"
+      "sourceUrl": "https://revenue.louisiana.gov/"
     },
     {
       "countryCode": "US-LA-LAFAYETTE",
@@ -4025,7 +4025,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.550",
       "rateType": "county_combined",
-      "sourceUrl": "https://revenue.louisiana.gov/SalesTax/SalesUseTaxRates"
+      "sourceUrl": "https://revenue.louisiana.gov/"
     },
     {
       "countryCode": "US-OK-OKLAHOMA",
@@ -4033,7 +4033,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.989",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-OK-TULSA",
@@ -4041,7 +4041,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.989",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-OK-CLEVELAND",
@@ -4049,7 +4049,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.989",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-OK-COMANCHE",
@@ -4057,7 +4057,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.989",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-OK-CANADIAN",
@@ -4065,7 +4065,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.989",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-OK-ROGERS",
@@ -4073,7 +4073,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "8.989",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-CT-FAIRFIELD",
@@ -4113,7 +4113,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-UT-UTAH",
@@ -4121,7 +4121,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-UT-DAVIS",
@@ -4129,7 +4129,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-UT-WEBER",
@@ -4137,7 +4137,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.250",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-AR-PULASKI",
@@ -4145,7 +4145,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.470",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-AR-BENTON",
@@ -4153,7 +4153,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.470",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-AR-WASHINGTON",
@@ -4161,7 +4161,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.470",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-AR-FAULKNER",
@@ -4169,7 +4169,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.470",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-IA-POLK",
@@ -4177,7 +4177,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-IA-LINN",
@@ -4185,7 +4185,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-IA-SCOTT",
@@ -4193,7 +4193,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-IA-BLACKHAWK",
@@ -4201,7 +4201,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-KS-SEDGWICK",
@@ -4209,7 +4209,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-KS-JOHNSON",
@@ -4217,7 +4217,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-KS-SHAWNEE",
@@ -4225,7 +4225,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-KS-WYANDOTTE",
@@ -4233,7 +4233,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "9.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-NE-DOUGLAS",
@@ -4241,7 +4241,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-NE-LANCASTER",
@@ -4249,7 +4249,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-NE-SARPY",
@@ -4257,7 +4257,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-NV-CLARK",
@@ -4369,7 +4369,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.625",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.tax.newmexico.gov/businesses/grt-rates/"
+      "sourceUrl": "https://www.tax.newmexico.gov/businesses/gross-receipts-overview/"
     },
     {
       "countryCode": "US-NM-DOAANA",
@@ -4377,7 +4377,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.625",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.tax.newmexico.gov/businesses/grt-rates/"
+      "sourceUrl": "https://www.tax.newmexico.gov/businesses/gross-receipts-overview/"
     },
     {
       "countryCode": "US-NM-SANTAFE",
@@ -4385,7 +4385,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "7.625",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.tax.newmexico.gov/businesses/grt-rates/"
+      "sourceUrl": "https://www.tax.newmexico.gov/businesses/gross-receipts-overview/"
     },
     {
       "countryCode": "US-WV-KANAWHA",
@@ -4393,7 +4393,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "6.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-WV-BERKELEY",
@@ -4401,7 +4401,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "6.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-WV-MONONGALIA",
@@ -4409,7 +4409,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "6.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-SD-MINNEHAHA",
@@ -4417,7 +4417,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "4.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-SD-PENNINGTON",
@@ -4425,7 +4425,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "4.500",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-ND-CASS",
@@ -4433,7 +4433,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "5.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-ND-BURLEIGH",
@@ -4441,7 +4441,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "5.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-VT-CHITTENDEN",
@@ -4449,7 +4449,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "6.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-VT-RUTLAND",
@@ -4457,7 +4457,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "6.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
     },
     {
       "countryCode": "US-MS-HINDS",
@@ -4513,7 +4513,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "5.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://revenue.wyo.gov/tax-divisions/excise-tax-division"
+      "sourceUrl": "https://revenue.wyo.gov/"
     },
     {
       "countryCode": "US-WY-NATRONA",
@@ -4521,7 +4521,7 @@
       "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
       "ratePercent": "5.000",
       "rateType": "county_combined",
-      "sourceUrl": "https://revenue.wyo.gov/tax-divisions/excise-tax-division"
+      "sourceUrl": "https://revenue.wyo.gov/"
     }
   ]
 }
