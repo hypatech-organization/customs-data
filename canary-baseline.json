@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-04T04:36:18.183Z",
+  "generatedAt": "2026-11-04T09:13:38.333Z",
   "label": "Landed-cost canary scenarios",
   "rowCount": 166,
   "rows": [
     {
       "declaredValueUsd": "420.00",
       "driftThresholdPercent": "5.00",
-      "expectedDutyUsd": "50.40",
-      "expectedTotalUsd": "53.02",
+      "expectedDutyUsd": "60.90",
+      "expectedTotalUsd": "63.52",
       "expectedVatUsd": "0.00",
       "hsCode": "9004.10",
       "importingCountry": "US",
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
-      "notes": "AU→US sunglasses — MFN 2% + IEEPA reciprocal 10% (no fentanyl surcharge). Re-baselined 2026-05-19 to include IEEPA in expectedDutyUsd per canary convention.",
+      "notes": "AU→US sunglasses — MFN 2% + U.S. note 52's 9903.05.23 at 12.5% (USITC HTS 2026 Revision 22, 99-III-479). Re-baselined 2026-11-04 from the IEEPA stack, which is struck, per canary convention.",
       "originCountry": "AU",
       "scenarioKey": "us-from-au-sunglasses-420",
-      "sourceUrl": "https://hts.usitc.gov/?query=9004.10"
+      "sourceUrl": "https://hts.usitc.gov/reststop/file?release=2026HTSRev22&filename=Chapter%2099"
     },
     {
       "declaredValueUsd": "50.00",
